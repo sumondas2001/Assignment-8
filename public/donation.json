@@ -1,146 +1,134 @@
 [
      {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/9WT65sz/Health.png",
           "donation_category": "Health",
           "donation_title": "Clean water for children",
           "donation_price": "290",
           "donation_description": "Providing clean water for children is essential for their health and well-being. Access to safe drinking water prevents waterborne diseases, supports proper hydration, and enhances overall quality of life. It's a fundamental necessity that ensures children can thrive and reach their full potential.",
           "category_bacground_color": "rgba(0, 82, 255, 1)",
-          "category_text_color": "rgba(0, 82, 255, 1)",
-          "title_text_color": "rgba(0, 82, 255, 1)",
+          "text_color": "rgba(0, 82, 255, 1)",
           "card_bacground_color": "rgba(0, 82, 255, 0.15)"
      },
      {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/Cs79FBM/Education.png",
           "donation_category": "Education",
           "donation_title": "Good education",
           "donation_price": "290",
           "donation_description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
           "category_bacground_color": "rgba(255, 68, 74, 1)",
-          "category_text_color": "gba(255, 68, 74, 1)",
-          "title_text_color": "rgba(255, 68, 74, 1)",
+          "text_color": "rgba(255, 68, 74, 1)",
           "card_bacground_color": "rgba(255, 68, 74, 0.15)"
      },
      {
           "id": 3,
-          "img": "",
+          "img": "https://i.ibb.co/BzpDLSG/Clothing.png",
           "donation_category": "Clothing",
           "donation_title": "Used Clothing Drive",
           "donation_price": "290",
           "donation_description": "A used clothing drive collects gently worn garments to provide essential clothing for those in need. By donating items in good condition, we extend their lifespan, promote sustainability, and reduce waste. These drives foster community support and solidarity, redistributing resources to individuals facing financial hardship or emergency situations. Through collective efforts, we ensure that clothing reaches those who can benefit most, enriching lives and promoting well-being.",
           "category_bacground_color": "rgba(121, 194, 63, 1)",
-          "category_text_color": "rgba(121, 194, 63, 1)",
-          "title_text_color": "rgba(121, 194, 63, 1)",
-          "card_bacground_color": "rgba(121, 194, 63, 0.15)"
+          "text_color": "rgba(121, 194, 63, 1)",
+          "card_bacground_color": "rgba(121,194,63,0.15)"
      },
      {
           "id": 4,
-          "img": "",
+          "img": "https://i.ibb.co/jbtG3RW/Food.png",
           "donation_category": "Food",
           "donation_title": "Better Food for Everyone",
           "donation_price": "290",
           "donation_description": "Better food for everyone emphasizes access to nutritious, sustainable, and culturally appropriate meals. This initiative seeks to address food insecurity, promote healthy eating habits, and support local farmers and producers. By advocating for equitable food distribution systems and educational programs, it aims to improve overall well-being and reduce health disparities. Through community collaboration and policy changes, it strives to ensure that everyone has access to quality food for a healthier future.",
           "category_bacground_color": "rgba(248, 113, 71, 1)",
-          "category_text_color": "rgba(248, 113, 71, 1)",
-          "title_text_color": "rgba(248, 113, 71, 1)",
-          "card_bacground_color": "rgba(248, 113, 71, 0.15)"
+          "text_color": "rgba(248, 113, 71, 1)",
+          "card_bacground_color": "rgba(248,113,71,0.15)"
      },
      {
           "id": 5,
-          "img": "",
+          "img": "https://i.ibb.co/jbtG3RW/Food.png",
           "donation_category": "Food",
           "donation_title": "Better Food for Everyone",
           "donation_price": "290",
           "donation_description": "Better food for everyone emphasizes access to nutritious, sustainable, and culturally appropriate meals. This initiative seeks to address food insecurity, promote healthy eating habits, and support local farmers and producers. By advocating for equitable food distribution systems and educational programs, it aims to improve overall well-being and reduce health disparities. Through community collaboration and policy changes, it strives to ensure that everyone has access to quality food for a healthier future.",
           "category_bacground_color": "rgba(248, 113, 71, 1)",
-          "category_text_color": "rgba(248, 113, 71, 1)",
-          "title_text_color": "rgba(248, 113, 71, 1)",
-          "card_bacground_color": "rgba(248, 113, 71, 0.15)"
+          "text_color": "rgba(248, 113, 71, 1)",
+          "card_bacground_color": "rgba(248,113, 71,0.15)"
      },
      {
           "id": 6,
-          "img": "",
+          "img": "https://i.ibb.co/BzpDLSG/Clothing.png",
           "donation_category": "Clothing",
           "donation_title": "Used Clothing Drive",
           "donation_price": "290",
           "donation_description": "A used clothing drive collects gently worn garments to provide essential clothing for those in need. By donating items in good condition, we extend their lifespan, promote sustainability, and reduce waste. These drives foster community support and solidarity, redistributing resources to individuals facing financial hardship or emergency situations. Through collective efforts, we ensure that clothing reaches those who can benefit most, enriching lives and promoting well-being.",
           "category_bacground_color": "rgba(121, 194, 63, 1)",
-          "category_text_color": "rgba(121, 194, 63, 1)",
-          "title_text_color": "rgba(121, 194, 63, 1)",
-          "card_bacground_color": "rgba(121, 194, 63, 0.15)"
+          "text_color": "rgba(121, 194, 63, 1)",
+          "card_bacground_color": "rgba(121, 194,63,0.15)"
      },
      {
           "id": 7,
-          "img": "",
+          "img": "https://i.ibb.co/Cs79FBM/Education.png",
           "donation_category": "Education",
           "donation_title": "Good education",
           "donation_price": "290",
           "donation_description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
           "category_bacground_color": "rgba(255, 68, 74, 1)",
-          "category_text_color": "gba(255, 68, 74, 1)",
-          "title_text_color": "rgba(255, 68, 74, 1)",
+          "text_color": "rgba(255, 68, 74, 1)",
           "card_bacground_color": "rgba(255, 68, 74, 0.15)"
      },
      {
           "id": 8,
-          "img": "",
+          "img": "https://i.ibb.co/9WT65sz/Health.png",
           "donation_category": "Health",
           "donation_title": "Clean water for children",
           "donation_price": "290",
           "donation_description": "Providing clean water for children is essential for their health and well-being. Access to safe drinking water prevents waterborne diseases, supports proper hydration, and enhances overall quality of life. It's a fundamental necessity that ensures children can thrive and reach their full potential.",
           "category_bacground_color": "rgba(0, 82, 255, 1)",
-          "category_text_color": "rgba(0, 82, 255, 1)",
-          "title_text_color": "rgba(0, 82, 255, 1)",
+          "text_color": "rgba(0, 82, 255, 1)",
           "card_bacground_color": "rgba(0, 82, 255, 0.15)"
      },
      {
           "id": 9,
-          "img": "",
+          "img": "https://i.ibb.co/9WT65sz/Health.png",
           "donation_category": "Health",
           "donation_title": "Clean water for children",
           "donation_price": "290",
           "donation_description": "Providing clean water for children is essential for their health and well-being. Access to safe drinking water prevents waterborne diseases, supports proper hydration, and enhances overall quality of life. It's a fundamental necessity that ensures children can thrive and reach their full potential.",
           "category_bacground_color": "rgba(0, 82, 255, 1)",
-          "category_text_color": "rgba(0, 82, 255, 1)",
-          "title_text_color": "rgba(0, 82, 255, 1)",
+          "text_color": "rgba(0, 82, 255, 1)",
           "card_bacground_color": "rgba(0, 82, 255, 0.15)"
      },
      {
           "id": 10,
-          "img": "",
+          "img": "https://i.ibb.co/Cs79FBM/Education.png",
           "donation_category": "Education",
           "donation_title": "Good education",
           "donation_price": "290",
           "donation_description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
           "category_bacground_color": "rgba(255, 68, 74, 1)",
-          "category_text_color": "gba(255, 68, 74, 1)",
-          "title_text_color": "rgba(255, 68, 74, 1)",
-          "card_bacground_color": "rgba(255, 68, 74, 0.15)"
+          "text_color": "rgba(255, 68, 74, 1)",
+          "card_bacground_color": "rgba(0, 82, 255, 0.15)"
      },
      {
           "id": 11,
-          "img": "",
+          "img": "https://i.ibb.co/BzpDLSG/Clothing.png",
           "donation_category": "Clothing",
           "donation_title": "Used Clothing Drive",
           "donation_price": "290",
           "donation_description": "A used clothing drive collects gently worn garments to provide essential clothing for those in need. By donating items in good condition, we extend their lifespan, promote sustainability, and reduce waste. These drives foster community support and solidarity, redistributing resources to individuals facing financial hardship or emergency situations. Through collective efforts, we ensure that clothing reaches those who can benefit most, enriching lives and promoting well-being.",
           "category_bacground_color": "rgba(121, 194, 63, 1)",
-          "category_text_color": "rgba(121, 194, 63, 1)",
-          "title_text_color": "rgba(121, 194, 63, 1)",
-          "card_bacground_color": "rgba(121, 194, 63, 0.15)"
+          "text_color": "rgba(121, 194, 63, 1)",
+          "card_bacground_color": "rgba(121, 194, 63,0.15)"
      },
      {
           "id": 12,
-          "img": "",
+          "img": "https://i.ibb.co/jbtG3RW/Food.png",
           "donation_category": "Food",
           "donation_title": "Better Food for Everyone",
           "donation_price": "290",
           "donation_description": "Better food for everyone emphasizes access to nutritious, sustainable, and culturally appropriate meals. This initiative seeks to address food insecurity, promote healthy eating habits, and support local farmers and producers. By advocating for equitable food distribution systems and educational programs, it aims to improve overall well-being and reduce health disparities. Through community collaboration and policy changes, it strives to ensure that everyone has access to quality food for a healthier future.",
           "category_bacground_color": "rgba(248, 113, 71, 1)",
-          "category_text_color": "rgba(248, 113, 71, 1)",
-          "title_text_color": "rgba(248, 113, 71, 1)",
-          "card_bacground_color": "rgba(248, 113, 71, 0.15)"
+          "text_color": "rgba(248, 113, 71, 1)",
+          "card_bacground_color": "rgba(248,113,71,0.15)"
      }
 ]
