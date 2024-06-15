@@ -15,12 +15,12 @@ const DonationsDetailsCard = ({ details }) => {
           const getItem = JSON.parse(localStorage.getItem('donation'));
           const addDonationItemArray = []
           if (!getItem) {
-               addDonationItemArray.push(id);
+               addDonationItemArray.push(details);
                localStorage.setItem('donation', JSON.stringify(addDonationItemArray));
                swal("Thank You!", "Your Douation Successfully", "success");
           }
           else {
-               addDonationItemArray.push(...getItem, id);
+               addDonationItemArray.push(...getItem, details);
                localStorage.setItem('donation', JSON.stringify(addDonationItemArray));
                swal("Thank You!", "Your Douation Successfully", "success");
           }
