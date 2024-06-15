@@ -4,7 +4,7 @@ import swal from "sweetalert";
 
 
 const DonationsDetailsCard = ({ details }) => {
-     const { id, img, donation_title, donation_price, donation_description, text_color } = details || {}
+     const { img, donation_title, donation_price, donation_description, text_color } = details || {}
      // console.log(details)
 
      const textColor = {
