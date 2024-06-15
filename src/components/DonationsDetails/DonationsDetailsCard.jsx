@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
+import swal from "sweetalert";
 
 
 const DonationsDetailsCard = ({ details }) => {
@@ -8,7 +9,26 @@ const DonationsDetailsCard = ({ details }) => {
 
      const textColor = {
           backgroundColor: text_color
+     };
+
+     const handelDonationAdd = () => {
+          const getItem = JSON.parse(localStorage.getItem('donation'));
+          const addDonationItemArray = []
+          if (!getItem) {
+               addDonationItemArray.push(id);
+               localStorage.setItem('donation', JSON.stringify(addDonationItemArray));
+               swal("Thank You!", "Your Douation Successfully", "success");
+          }
+          else {
+               addDonationItemArray.push(...getItem, id);
+               localStorage.setItem('donation', JSON.stringify(addDonationItemArray));
+               swal("Thank You!", "Your Douation Successfully", "success");
+          }
      }
+
+
+
+
      return (
           <div>
                <div className="  lg:mx-32 md:mx-16 mx-5  ">
@@ -20,10 +40,12 @@ const DonationsDetailsCard = ({ details }) => {
                          <div className="h-24 relative bg-black opacity-50 ">
                          </div>
 
-                         <button
-                              style={textColor}
-                              className="lg:text-xl md:text-xl text-lg font-semibold md:px-6 lg:px-6 px-2 lg:py-4 md:py-4 py-3  text-white ml-10 absolute bottom-5 rounded-md">Donate $<span>{donation_price}</span>
-                         </button>
+                         <Link>
+                              <button onClick={handelDonationAdd}
+                                   style={textColor}
+                                   className="lg:text-xl md:text-xl text-lg font-semibold md:px-6 lg:px-6 px-2 lg:py-4 md:py-4 py-3  text-white ml-10 absolute bottom-5 rounded-md">Donate $<span>{donation_price}</span>
+                              </button>
+                         </Link>
 
                     </div>
 
