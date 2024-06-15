@@ -17,7 +17,7 @@ const DonationCard = ({ donation }) => {
      }
      return (
           <div>
-               <Link>
+               <Link to={`/donations/${id}`}>
                     <div className='rounded-lg ' style={cardColor}>
                          <img src={img} alt="" />
                          <div className='pl-4 pt-4'>
