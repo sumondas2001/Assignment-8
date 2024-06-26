@@ -39,17 +39,24 @@ const Donation = () => {
 
 
                               }
+
                          </div>
                          {
-                              !isShow && (
-                                   <div className="justify-center flex mb-4">
-                                        <button onClick={() => setIsShow(!isShow)} className="text-lg font-medium text-center bg-lime-500 text-white px-4 py-2 rounded-lg">{isShow ? 'See Less' : "See More"}</button>
-                                   </div>
+                              donationsData.length > 4 && (
+                                   !isShow && (
+                                        <div className="justify-center flex mb-4">
+                                             <button onClick={() => setIsShow(!isShow)} className="text-lg font-medium text-center bg-lime-500 text-white px-4 py-2 rounded-lg">See More</button>
+                                        </div>
+                                   )
                               )
+
                          }
+
                     </div>
 
+
                }
+
 
           </div >
 
